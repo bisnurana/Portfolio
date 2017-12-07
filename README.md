@@ -1,4 +1,4 @@
-# Single page portfolio template
+# Single page portfolio template for a professional
 
 
 ## Feel free to use it
